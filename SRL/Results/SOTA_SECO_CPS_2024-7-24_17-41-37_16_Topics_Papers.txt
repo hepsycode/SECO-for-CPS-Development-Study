@@ -1,0 +1,208 @@
+Topic n. 0 for: " ['collaboration', 'value', 'role', 'study', 'technical'] "
+
+Stakeholders collaborations, challenges and emerging concepts in digital twin ecosystems
+Design of a multi-sided platform supporting CPS deployment in the automation market
+Digital innovation ecosystems in agri-food: design principles and organizational framework
+IoT-big data software ecosystems for smart cities sensing: challenges, open issues, and emerging solutions
+Quality assurance in software ecosystems: A systematic literature mapping and research agenda
+Automotive software engineering: A systematic mapping study
+Internet of Things and Big Data: the disruption of the value chain and the rise of new software ecosystems
+Advantages of Arrowhead Framework for the Machine Tooling Industry
+Digital Transformation and Innovation and Business Ecosystems: A Bibliometric Analysis for Conceptual Insights and Collaborative Practices for Ecosystem Innovation
+Assurance and certification of cyber–physical systems: The AMASS open source ecosystem
+
+
+Topic n. 1 for: " ['cps', 'services', 'network', 'support', 'platform'] "
+
+NLES: A novel lifetime extension scheme for safety-critical cyber-physical systems using SDN and NFV
+Design of a multi-sided platform supporting CPS deployment in the automation market
+Models@run.time for creating in-cloud dynamic cyber-physical ecosystems
+Development of an embedded platform for secure CPS services
+Assurance and certification of cyber–physical systems: The AMASS open source ecosystem
+Contemporary Challenges when Developing Cyber-Physical Systems of Systems - A Case Study
+Digital Transformation and Innovation and Business Ecosystems: A Bibliometric Analysis for Conceptual Insights and Collaborative Practices for Ecosystem Innovation
+Automated analysis of feature models: Quo vadis?
+Automotive software engineering: A systematic mapping study
+Smart systems of innovation for smart places: Challenges in deploying digital platforms for co-creation and data-intelligence
+
+
+Topic n. 2 for: " ['applications', 'project', 'technologies', 'requirements', 'traditional'] "
+
+RISC-V Processor Technologies for Aerospace Applications in the ISOLDE Project
+Quality assurance in software ecosystems: A systematic literature mapping and research agenda
+Comprehensive assessment of open source software ecosystem health
+Quo vadis cyber-physical systems: Research areas of cyber-physical ecosystems
+Towards a digital ecosystem for rural areas: Experiences from three years of development
+Advantages of Arrowhead Framework for the Machine Tooling Industry
+Digital innovation ecosystems in agri-food: design principles and organizational framework
+Design of a multi-sided platform supporting CPS deployment in the automation market
+IoT-big data software ecosystems for smart cities sensing: challenges, open issues, and emerging solutions
+Stakeholders collaborations, challenges and emerging concepts in digital twin ecosystems
+
+
+Topic n. 3 for: " ['interoperability', 'analysis', 'practical', 'performing', 'role'] "
+
+Software interoperability analysis in practice - A survey
+Comprehensive assessment of open source software ecosystem health
+Digital Transformation and Innovation and Business Ecosystems: A Bibliometric Analysis for Conceptual Insights and Collaborative Practices for Ecosystem Innovation
+Automated analysis of feature models: Quo vadis?
+Contemporary Challenges when Developing Cyber-Physical Systems of Systems - A Case Study
+NLES: A novel lifetime extension scheme for safety-critical cyber-physical systems using SDN and NFV
+Internet of Things and Big Data: the disruption of the value chain and the rise of new software ecosystems
+A Cloud-Based and Dynamic DNS Approach to Enable the Web of Things
+Assurance and certification of cyber–physical systems: The AMASS open source ecosystem
+Automotive software engineering: A systematic mapping study
+
+
+Topic n. 4 for: " ['decision', 'complex', 'level', 'number', 'support'] "
+
+From Systems to Ecosystems: Rethinking Adaptive Safety
+Comprehensive assessment of open source software ecosystem health
+Design of a multi-sided platform supporting CPS deployment in the automation market
+A Real-time Linked Dataspace for the Internet of Things: Enabling “Pay-As-You-Go” Data Management in Smart Environments
+Smart systems of innovation for smart places: Challenges in deploying digital platforms for co-creation and data-intelligence
+Digital innovation ecosystems in agri-food: design principles and organizational framework
+Assurance and certification of cyber–physical systems: The AMASS open source ecosystem
+IoT-big data software ecosystems for smart cities sensing: challenges, open issues, and emerging solutions
+Towards a digital ecosystem for rural areas: Experiences from three years of development
+Digital Transformation and Innovation and Business Ecosystems: A Bibliometric Analysis for Conceptual Insights and Collaborative Practices for Ecosystem Innovation
+
+
+Topic n. 5 for: " ['devices', 'resource', 'internet', 'things', 'domains'] "
+
+A Cloud-Based and Dynamic DNS Approach to Enable the Web of Things
+Development of an embedded platform for secure CPS services
+Advantages of Arrowhead Framework for the Machine Tooling Industry
+Internet of Things and Big Data: the disruption of the value chain and the rise of new software ecosystems
+NLES: A novel lifetime extension scheme for safety-critical cyber-physical systems using SDN and NFV
+IoT-big data software ecosystems for smart cities sensing: challenges, open issues, and emerging solutions
+Elastic systems: Towards cyber-physical ecosystems of people, processes, and things
+Models@run.time for creating in-cloud dynamic cyber-physical ecosystems
+Digital innovation ecosystems in agri-food: design principles and organizational framework
+Digital Transformation and Innovation and Business Ecosystems: A Bibliometric Analysis for Conceptual Insights and Collaborative Practices for Ecosystem Innovation
+
+
+Topic n. 6 for: " ['testing', 'support', 'engineering', 'benefits', 'multiple'] "
+
+PSY-TaLiRo: A Python Toolbox for Search-Based Test Generation for Cyber-Physical Systems
+Quo vadis cyber-physical systems: Research areas of cyber-physical ecosystems
+Design of a multi-sided platform supporting CPS deployment in the automation market
+Advantages of Arrowhead Framework for the Machine Tooling Industry
+Smart systems of innovation for smart places: Challenges in deploying digital platforms for co-creation and data-intelligence
+Automated analysis of feature models: Quo vadis?
+A Real-time Linked Dataspace for the Internet of Things: Enabling “Pay-As-You-Go” Data Management in Smart Environments
+Towards a digital ecosystem for rural areas: Experiences from three years of development
+Assurance and certification of cyber–physical systems: The AMASS open source ecosystem
+Contemporary Challenges when Developing Cyber-Physical Systems of Systems - A Case Study
+
+
+Topic n. 7 for: " ['systematic', 'research', 'analysis', 'areas', 'models'] "
+
+Quality assurance in software ecosystems: A systematic literature mapping and research agenda
+Automated analysis of feature models: Quo vadis?
+Automotive software engineering: A systematic mapping study
+Digital Transformation and Innovation and Business Ecosystems: A Bibliometric Analysis for Conceptual Insights and Collaborative Practices for Ecosystem Innovation
+Stakeholders collaborations, challenges and emerging concepts in digital twin ecosystems
+NLES: A novel lifetime extension scheme for safety-critical cyber-physical systems using SDN and NFV
+Quo vadis cyber-physical systems: Research areas of cyber-physical ecosystems
+A Cloud-Based and Dynamic DNS Approach to Enable the Web of Things
+From Systems to Ecosystems: Rethinking Adaptive Safety
+Assurance and certification of cyber–physical systems: The AMASS open source ecosystem
+
+
+Topic n. 8 for: " ['innovation', 'digital', 'business', 'smart', 'concepts'] "
+
+Digital Transformation and Innovation and Business Ecosystems: A Bibliometric Analysis for Conceptual Insights and Collaborative Practices for Ecosystem Innovation
+Digital innovation ecosystems in agri-food: design principles and organizational framework
+Smart systems of innovation for smart places: Challenges in deploying digital platforms for co-creation and data-intelligence
+IoT-big data software ecosystems for smart cities sensing: challenges, open issues, and emerging solutions
+Quo vadis cyber-physical systems: Research areas of cyber-physical ecosystems
+Towards a digital ecosystem for rural areas: Experiences from three years of development
+Contemporary Challenges when Developing Cyber-Physical Systems of Systems - A Case Study
+Design of a multi-sided platform supporting CPS deployment in the automation market
+Assurance and certification of cyber–physical systems: The AMASS open source ecosystem
+Automated analysis of feature models: Quo vadis?
+
+
+Topic n. 9 for: " ['tools', 'engineering', 'industry', 'open', 'software_engineering'] "
+
+Assurance and certification of cyber–physical systems: The AMASS open source ecosystem
+Advantages of Arrowhead Framework for the Machine Tooling Industry
+Internet of Things and Big Data: the disruption of the value chain and the rise of new software ecosystems
+Automotive software engineering: A systematic mapping study
+Quo vadis cyber-physical systems: Research areas of cyber-physical ecosystems
+Contemporary Challenges when Developing Cyber-Physical Systems of Systems - A Case Study
+Design of a multi-sided platform supporting CPS deployment in the automation market
+PSY-TaLiRo: A Python Toolbox for Search-Based Test Generation for Cyber-Physical Systems
+Comprehensive assessment of open source software ecosystem health
+Elastic systems: Towards cyber-physical ecosystems of people, processes, and things
+
+
+Topic n. 10 for: " ['things', 'future', 'connected', 'process', 'integration'] "
+
+Elastic systems: Towards cyber-physical ecosystems of people, processes, and things
+Internet of Things and Big Data: the disruption of the value chain and the rise of new software ecosystems
+A Real-time Linked Dataspace for the Internet of Things: Enabling “Pay-As-You-Go” Data Management in Smart Environments
+IoT-big data software ecosystems for smart cities sensing: challenges, open issues, and emerging solutions
+NLES: A novel lifetime extension scheme for safety-critical cyber-physical systems using SDN and NFV
+Quo vadis cyber-physical systems: Research areas of cyber-physical ecosystems
+Assurance and certification of cyber–physical systems: The AMASS open source ecosystem
+A Cloud-Based and Dynamic DNS Approach to Enable the Web of Things
+Comprehensive assessment of open source software ecosystem health
+Quality assurance in software ecosystems: A systematic literature mapping and research agenda
+
+
+Topic n. 11 for: " ['models', 'dynamic', 'changes', 'number', 'issues'] "
+
+Modular verification of dynamically adaptive systems
+Models@run.time for creating in-cloud dynamic cyber-physical ecosystems
+Automated analysis of feature models: Quo vadis?
+Quo vadis cyber-physical systems: Research areas of cyber-physical ecosystems
+Comprehensive assessment of open source software ecosystem health
+A Cloud-Based and Dynamic DNS Approach to Enable the Web of Things
+Elastic systems: Towards cyber-physical ecosystems of people, processes, and things
+Development of an embedded platform for secure CPS services
+Assurance and certification of cyber–physical systems: The AMASS open source ecosystem
+RISC-V Processor Technologies for Aerospace Applications in the ISOLDE Project
+
+
+Topic n. 12 for: " ['data', 'smart', 'environments', 'architecture', 'issues'] "
+
+A Real-time Linked Dataspace for the Internet of Things: Enabling “Pay-As-You-Go” Data Management in Smart Environments
+IoT-big data software ecosystems for smart cities sensing: challenges, open issues, and emerging solutions
+Internet of Things and Big Data: the disruption of the value chain and the rise of new software ecosystems
+Smart systems of innovation for smart places: Challenges in deploying digital platforms for co-creation and data-intelligence
+Advantages of Arrowhead Framework for the Machine Tooling Industry
+Development of an embedded platform for secure CPS services
+Stakeholders collaborations, challenges and emerging concepts in digital twin ecosystems
+Digital Transformation and Innovation and Business Ecosystems: A Bibliometric Analysis for Conceptual Insights and Collaborative Practices for Ecosystem Innovation
+Assurance and certification of cyber–physical systems: The AMASS open source ecosystem
+Automated analysis of feature models: Quo vadis?
+
+
+Topic n. 13 for: " ['opportunities', 'create', 'needs', 'structured', 'cyber'] "
+
+The challenges of emerging software eco-systems
+Contemporary Challenges when Developing Cyber-Physical Systems of Systems - A Case Study
+Quo vadis cyber-physical systems: Research areas of cyber-physical ecosystems
+Models@run.time for creating in-cloud dynamic cyber-physical ecosystems
+Development of an embedded platform for secure CPS services
+From Systems to Ecosystems: Rethinking Adaptive Safety
+Quality assurance in software ecosystems: A systematic literature mapping and research agenda
+NLES: A novel lifetime extension scheme for safety-critical cyber-physical systems using SDN and NFV
+Smart systems of innovation for smart places: Challenges in deploying digital platforms for co-creation and data-intelligence
+PSY-TaLiRo: A Python Toolbox for Search-Based Test Generation for Cyber-Physical Systems
+
+
+Topic n. 14 for: " ['software_engineering', 'digital', 'project', 'engineering', 'areas'] "
+
+Towards a digital ecosystem for rural areas: Experiences from three years of development
+Automotive software engineering: A systematic mapping study
+Contemporary Challenges when Developing Cyber-Physical Systems of Systems - A Case Study
+Smart systems of innovation for smart places: Challenges in deploying digital platforms for co-creation and data-intelligence
+Digital innovation ecosystems in agri-food: design principles and organizational framework
+Development of an embedded platform for secure CPS services
+Digital Transformation and Innovation and Business Ecosystems: A Bibliometric Analysis for Conceptual Insights and Collaborative Practices for Ecosystem Innovation
+Assurance and certification of cyber–physical systems: The AMASS open source ecosystem
+Automated analysis of feature models: Quo vadis?
+NLES: A novel lifetime extension scheme for safety-critical cyber-physical systems using SDN and NFV
