@@ -1,2 +1,2 @@
-# SECO-for-CPS-Development-Study
-This repository presents materials for aims to understand Industry-Academia collaboration within SECO for developing CPSs, with a Systematic Literature Review (SLR), complemented by empirical evidence collected through a survey questionnaire given to the partners of the AIDOaRt project.
+# Experiences and Challenges from Software Ecosystem for Cyber-Physical Systems Development: an Empirical Study on Industry-Academia Collaboration
+This repository presents materials for aim to understand Industry-Academia collaboration within SECO for developing CPSs, with a Systematic Literature Review (SLR), complemented by empirical evidence collected through a survey questionnaire given to the partners of the AIDOaRt project.
