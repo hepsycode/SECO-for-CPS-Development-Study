@@ -1,0 +1,39 @@
+﻿Role,Work,Group,C1,C2,C3,C5,C6,C7,C9,C11
+Solution provider,SME Industry,Industry,4,4,4,4,4,4,3,4
+Use case provider,SME Industry,Industry,4,4,4,4,4,4,3,4
+Solution provider,SME Industry,Industry,4,4,4,4,4,4,4,4
+Use case provider,SME Industry,Industry,4,4,4,4,4,4,4,4
+Solution provider,Research Institute,Academia,3,3,3,3,3,3,3,3
+Solution provider,University,Academia,4,4,4,4,3,3,3,3
+Solution provider,University,Academia,4,4,5,4,3,5,3,3
+Solution provider,University,Academia,5,5,3,5,5,5,5,5
+Solution provider,SME Industry,Industry,4,3,3,3,3,5,3,2
+Solution provider,University,Academia,5,5,5,5,5,5,5,5
+Solution provider,Research Institute,Academia,4,3,5,3,5,4,2,3
+Solution provider,Research Institute,Academia,3,3,3,3,2,3,4,3
+Solution provider,University,Academia,3,3,3,3,5,2,2,2
+Solution provider,University,Academia,5,5,5,5,5,5,5,5
+Solution provider,University,Academia,3,2,3,2,4,1,3,3
+Solution provider,Research Institute,Academia,4,4,4,4,4,4,4,4
+Use case provider,SME Industry,Industry,3,3,5,4,5,4,3,2
+Solution provider,Large Industry,Industry,3,3,4,3,4,4,4,4
+Use case provider,Large Industry,Industry,3,3,4,3,4,4,4,4
+Solution provider,Research Institute,Academia,4,4,4,5,4,3,4,5
+Solution provider,SME Industry,Industry,5,5,5,5,5,5,5,5
+Solution provider,University,Academia,4,5,4,4,3,4,4,3
+Use case provider,SME Industry,Industry,4,4,4,4,4,4,4,4
+Solution provider,SME Industry,Industry,4,3,4,4,2,4,3,4
+Use case provider,SME Industry,Industry,4,3,4,4,2,4,3,4
+Use case provider,SME Industry,Industry,3,3,4,3,3,3,4,4
+Solution provider,SME Industry,Industry,4,4,5,5,5,4,5,4
+Solution provider,University,Academia,5,4,4,4,2,3,4,4
+Solution provider,University,Academia,5,5,5,4,3,4,4,4
+Use case provider,Large Industry,Industry,2,2,3,3,3,3,3,4
+Solution provider,SME Industry,Industry,2,4,4,4,4,4,5,4
+Solution provider,SME Industry,Industry,4,4,2,3,4,4,4,4
+Solution provider,SME Industry,Industry,3,3,4,4,4,4,3,3
+Solution provider,Research Institute,Academia,3,2,2,3,2,3,2,3
+Solution provider,Research Institute,Academia,3,3,3,3,3,3,3,3
+Solution provider,Large Industry,Industry,4,4,4,4,4,4,4,4
+Solution provider,University,Academia,4,4,3,4,5,4,4,4
+Solution provider,University,Academia,4,3,4,4,4,3,3,2
