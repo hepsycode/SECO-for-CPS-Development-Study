@@ -51,7 +51,7 @@ To collect quantitative data from the primary studies, we created a Google sprea
 
 As quality criteria for selecting primary studies, we included papers published in refereed sources that address SECO challenges and issues in CPS development. Following the guidelines in [6], we defined a quality checklist for data synthesis and analysis. Given the immaturity of the research field and the lack of review papers on this topic, we chose not to exclude any papers initially. Quality assessment was conducted after selecting the primary studies to verify if the publications discussed issues related to each quality metric. The criteria used for quality assessment in this study were based on [6] and are **Reporting**, **Rigor**, **Credibility**, and **Relevance**.
 
-## Reference
+## References
 
 [1] Kitchenham, B. A., & Charters, S. (2007). Guidelines for performing Systematic Literature Reviews in Software Engineering (Techreport EBSE 2007-001)
 
