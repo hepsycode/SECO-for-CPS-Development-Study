@@ -54,8 +54,13 @@ As quality criteria for selecting primary studies, we included papers published 
 ## Reference
 
 [1] Kitchenham, B. A., & Charters, S. (2007). Guidelines for performing Systematic Literature Reviews in Software Engineering (Techreport EBSE 2007-001)
+
 [2] Lin\aaker, J., Sulaman, S. M., Maiani de Mello, R., & Höst, M. (2015). Guidelines for Conducting Surveys in Software Engineering. Department of Computer Science, Lund University. 
+
 [3] Stavru, S. (2014). A critical examination of recent industrial surveys on agile method usage. Journal of Systems and Software, 94, 87–97.
+
 [4] Dyba, T., Dingsoyr, T., & Hanssen, G. K. (2007). Applying Systematic Reviews to Diverse Study Types: An Experience Report. First International Symposium on Empirical Software Engineering and Measurement (ESEM 2007), 225–234. https://doi.org/10.1109/ESEM.2007.59 
+
 [5] Petersen, K., Vakkalanka, S., & Kuzniarz, L. (2015). Guidelines for conducting systematic mapping studies in software engineering: An update. Inf. Softw. Technol., 64, 1–18.
+
 [6] Zhou, Y., Zhang, H., Huang, X., Yang, S., Babar, M. A., & Tang, H. (2015). Quality assessment of systematic reviews in software engineering: a tertiary study. Proceedings of the 19th International Conference on Evaluation and Assessment in Software Engineering. https://doi.org/10.1145/2745802.2745815
