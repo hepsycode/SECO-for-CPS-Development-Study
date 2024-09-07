@@ -162,9 +162,9 @@ adjacency_matrix <- matrix(
 )
 
 # Define row/column names
-rownames(adjacency_matrix) <- c("Architecture","Model-Based \n System Engineering","Requirements \n Engineering",
+rownames(adjacency_matrix) <- c("Architecture","Model-Based \n Systems Engineering","Requirements \n Engineering",
                                 "Reliability","Safety & Security","Longevity \n & Maintainability","Scalability","Adaptability",
-                                "Continuous System \n & Software \n Engineering","Testing",
+                                "Continuous Systems \n & Software Engineering","Testing",
                                 "Data","Interoperability",
                                 "Intelligence & \n Automation",
                                 "Stakeholder \n Engagement")
