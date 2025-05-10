@@ -8,7 +8,7 @@ The study explores how Software Ecosystems (SECOs) contribute to the development
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 - `SLR/` — Systematic Literature Review materials, including search protocols, selected papers, analysis results, and challenge taxonomy.
 - `Questionnaire-Survey/` — Data and insights from a structured opinion survey administered to AIDOaRt partners.
@@ -17,7 +17,7 @@ The study explores how Software Ecosystems (SECOs) contribute to the development
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 This study aims to:
 
@@ -27,7 +27,7 @@ This study aims to:
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
 1. **Systematic Literature Review (SLR)**: Conducted following Kitchenham and Charters’ guidelines to uncover key research trends, tools, and unresolved issues.
 2. **Opinion Survey**: Empirical data collection from AIDOaRt participants to understand real-world experiences and perceptions.
@@ -35,7 +35,7 @@ This study aims to:
 
 ---
 
-## 📌 Highlights
+## Highlights
 
 - A taxonomy of 14 empirically grounded challenges in SECO-based CPS development.
 - Key findings on data management, model-based engineering, and architecture extensibility.
@@ -44,7 +44,7 @@ This study aims to:
 
 ---
 
-## 📂 Additional Resources
+## Additional Resources
 
 All data and intermediate analysis artifacts are openly available and traceable in this repository, including:
 - Search queries and inclusion/exclusion criteria for the SLR.

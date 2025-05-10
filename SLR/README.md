@@ -1,8 +1,37 @@
-# Systematic Literature Review
+# Systematic Literature Review (SLR)
+
+This folder contains the complete workflow and results of the Systematic Literature Review (SLR) conducted for this study.
 
 We used a systematic approach to incorporate theoretical perspectives into empirical findings. Following the guidelines of Kitchenham and Charters [1][2], we chose the SLR approach to review the existing literature and understand current knowledge on SECO for CPS development. We used the litstudy Python package to retrieve papers from databases, while Google Sheets were used for planning, conducting the review, data extraction, and data analysis.
 
-## Search String and Sources
+## Purpose
+
+The SLR investigates challenges, practices, and gaps in the use of Software Ecosystems (SECOs) for Cyber-Physical Systems (CPS) development. It provides the foundational knowledge to contextualize the opinion survey results.
+
+## Content
+
+- Search strings and selection protocols
+- Inclusion/exclusion criteria
+- Quality assessment metrics
+- Selected primary studies
+- Thematic categorization and synthesis
+
+## Structure
+
+- `Full-Paper-Read/`: Spreadsheets and metadata of papers selected for in-depth reading.
+- `Results/`: Quantitative summaries and quality evaluation scores.
+- `Thematic-Analysis-Challenges/`: Qualitative classification and taxonomy of SECO challenges in CPS contexts.
+
+## Tools
+
+The review process used:
+- `litstudy` Python package for data retrieval
+- Google Sheets for coding and tracking
+- The Resonance Scheme for mapping contributions
+
+## Detail on SLR Approach
+
+### Search String and Sources
 
 The search string structure, based on Kitchenham and Charters guidelines [1], is as follows:
 
@@ -12,32 +41,32 @@ This string is formulated as a conjunctive logic proposition of three sets of se
 
 Given the interdisciplinary nature of the SLR, we performed an automatic search on leading research databases to ensure comprehensive literature coverage. The databases were selected based on guidelines and suggestions from previous studies [3, 4]. The selected electronic databases for our study include IEEE Xplore, Scopus, ACM Digital Library, Web of Science, Science Direct, and Springer Link. These databases are widely used in the software engineering domain and support advanced query searches.
 
-## Selection Criteria (IC/EC)
+### Selection Criteria (IC/EC)
 
 This step begins with:
 - **i)** a set of unique papers collected from the selected databases, and 
 - **ii)** a set of inclusion and exclusion criteria (IC/EC) applied to these papers.
 
-We defined IC/EC to determine whether a paper should be included in the SLR or excluded. Each paper collected by queries executed on the selected databases was evaluated based on its title and abstract [T/A] or, if necessary, the full text [All], as outlined below:
+We defined IC/EC to determine whether a paper should be included in the SLR or excluded. Each paper collected by queries executed on the selected databases was evaluated based on its reference metadata [R] or its title and abstract [T/A], as outlined below:
 
 - **Inclusion Criteria (IC):**
   - We include secondary studies [T/A]
-  - We include papers from high-ranked journals (Q1/Q2 Scimago) and conferences (GRIN-GII-SCIE) [T/A]
+  - We include papers from high ranked journals (Q1/Q2 in Scimago) and conferences (A/B in GRIN-GII-SCIE) [R]
   - We include tool papers mentioning SECO for CPS in the abstract, title, and keywords [T/A]
-  - We include challenges paper [All]
+  - We include challenges paper [T/A]
 
 - **Exclusion Criteria (EC):**
-  - We exclude book chapters and books in their entirety [T/A]
+  - We exclude book chapters and books in their entirety [R]
   - We exclude summaries of workshops/conferences [T/A]
   - We exclude Bachelor, Master, and PhD theses [T/A]
   - We exclude abstract-only papers, WIP papers, conferences, reviews, and editorials [T/A]
   - We exclude papers without available full text and non-English papers [T/A]
-  - We exclude papers published before 2006 [5] [T/A]
+  - We exclude papers published before 2006 [5] [R]
   - We exclude non-peer-reviewed papers, case reports, case series, technical reports, and web pages [T/A]
-  - We exclude papers from low-ranked journals (higher than Q1/Q2 Scimago) and conferences (GRIN-GII-SCIE) [T/A]
+  - We exclude papers from low-ranked journals (lower than Q1/Q2 in Scimago) and conferences (lower than A/B in GRIN-GII-SCIE) [R]
   - We exclude tool papers that focus only on the SECO challenge or CPS challenge [All]
 
-## Primary Studies Selection
+### Primary Studies Selection
 
 In the initial database search, 302 papers were found. After removing 30 duplicates, 272 papers were chosen for the IC/EC assessment.
 
@@ -45,13 +74,13 @@ We decided not to conduct a snowballing to maintain reproducibility and avoid ma
 
 By applying IC/EC to the titles and abstracts, we identified 49 papers for full reading. Finally, 28 papers were selected as primary studies.
 
-## Qualitative/Quantitative Data Processing
+### Qualitative/Quantitative Data Processing
 
 To collect quantitative data from the primary studies, we created a Google spreadsheet template to streamline data extraction and synthesis. Each paper was reviewed by two authors and categorized by its metadata (e.g., title, year, venue), main contributions, CPS case study or example availability, SECO tools availability, related challenges and their connection to RQs, and application domains (at least one or domain-independent).
 
 As quality criteria for selecting primary studies, we included papers published in refereed sources that address SECO challenges and issues in CPS development. Following the guidelines in [6], we defined a quality checklist for data synthesis and analysis. Given the immaturity of the research field and the lack of review papers on this topic, we chose not to exclude any papers initially. Quality assessment was conducted after selecting the primary studies to verify if the publications discussed issues related to each quality metric. The criteria used for quality assessment in this study were based on [6] and are **Reporting**, **Rigor**, **Credibility**, and **Relevance**.
 
-## References
+### References
 
 [1] Kitchenham, B. A., & Charters, S. (2007). Guidelines for performing Systematic Literature Reviews in Software Engineering (Techreport EBSE 2007-001)
 

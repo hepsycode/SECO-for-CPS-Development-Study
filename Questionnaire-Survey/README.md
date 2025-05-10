@@ -1,4 +1,35 @@
-# Details about the Questionnaire Survey
+# Opinion Survey
+
+This folder contains the materials and results related to the opinion survey administered to the partners of the AIDOaRt project.
+
+## Purpose
+
+The survey was designed to collect qualitative and quantitative insights about the perceptions, challenges, and collaborative experiences in the context of AIDOaRt SECO-based CPS development .
+
+## Content
+
+- Survey structure and question categories.
+- Raw responses and aggregated metrics.
+- Thematic analysis of open-ended responses.
+
+## Methodology
+
+The survey was designed following ACM SigSoft empirical standards and included a mix of Likert-scale, multiple-choice, and open-ended questions. It covered:
+
+1. Tool development processes.
+2. AIDOaRt SECO architecture usability.
+3. Integration and usage feedback from partners.
+4. Personal experiences and improvement suggestions.
+5. Ideas for future collaborations and research directions.
+
+## Analysis Approach
+
+Responses were analyzed using a combination of descriptive statistics and thematic coding to identify recurring themes, such as:
+- Data and modeling challenges
+- Integration and collaboration effectiveness
+- Stakeholder engagement dynamics
+
+# Details about the Questions
 
 ## Survey Participant Summary
 
