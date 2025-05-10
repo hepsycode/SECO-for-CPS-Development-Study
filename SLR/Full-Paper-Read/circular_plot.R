@@ -48,6 +48,59 @@ getwd()
 # R program to create adjacency matrix based on the primary studies
 adjacency_matrix <- matrix(
   
+  # # Taking sequence of elements based on the provided table (ALL Diagonal Matrix) 
+  # c(0, 3, 4, 0, 3, 0, 2, 1, 2, 2, 2, 2, 1, 2,  # Architecture
+  #   3, 0, 3, 0, 1, 1, 2, 1, 2, 2, 0, 3, 1, 1,  # Model-Based Systems Engineering
+  #   4, 3, 0, 0, 1, 1, 4, 2, 2, 1, 3, 3, 2, 2,  # Requirements Engineering
+  #   0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0,  # Reliability
+  #   3, 1, 1, 0, 0, 0, 0, 1, 0, 1, 2, 4, 1, 2,  # Safety & Security
+  #   0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1,  # Longevity & Manteinability
+  #   2, 2, 4, 1, 0, 1, 0, 2, 1, 0, 2, 2, 2, 0,  # Scalability
+  #   1, 1, 2, 1, 1, 0, 2, 0, 0, 1, 1, 1, 1, 1,  # Adaptability
+  #   2, 2, 2, 0, 0, 1, 1, 0, 0, 1, 2, 1, 2, 2,  # Continuous Software & System Engineering
+  #   2, 2, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1,  # Testing
+  #   2, 0, 3, 0, 2, 1, 2, 1, 2, 0, 0, 4, 2, 2,  # Data
+  #   2, 3, 3, 0, 4, 1, 2, 1, 1, 1, 4, 0, 2, 3,  # Interoperability
+  #   1, 1, 2, 1, 1, 1, 2, 1, 2, 0, 2, 2, 0, 2,  # Intelligence & Automation
+  #   2, 1, 2, 0, 2, 1, 0, 1, 2, 1, 2, 3, 2, 0  # Stakeholder Engagement
+  # ),
+  
+  # # Taking sequence of elements based on the provided table (>1 Diagonal Matrix) 
+  # c(0, 3, 4, 0, 3, 0, 2, 0, 2, 2, 2, 2, 0, 2,  # Architecture
+  #   3, 0, 3, 0, 0, 0, 2, 0, 2, 2, 0, 3, 0, 0,  # Model-Based Systems Engineering
+  #   4, 3, 0, 0, 0, 0, 4, 2, 2, 0, 3, 3, 2, 2,  # Requirements Engineering
+  #   0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  # Reliability
+  #   3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 0, 2,  # Safety & Security
+  #   0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  # Longevity & Manteinability
+  #   2, 2, 4, 0, 0, 0, 0, 2, 0, 0, 2, 2, 2, 0,  # Scalability
+  #   0, 0, 2, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0,  # Adaptability
+  #   2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 2,  # Continuous Software & System Engineering
+  #   2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  # Testing
+  #   2, 0, 3, 0, 2, 0, 2, 0, 2, 0, 0, 4, 2, 2,  # Data
+  #   2, 3, 3, 0, 4, 0, 2, 0, 0, 0, 4, 0, 2, 3,  # Interoperability
+  #   0, 0, 2, 0, 0, 0, 2, 0, 2, 0, 2, 2, 0, 2,  # Intelligence & Automation
+  #   2, 0, 2, 0, 2, 0, 0, 0, 2, 0, 2, 3, 2, 0  # Stakeholder Engagement
+  # ),
+  
+  # # Taking sequence of elements based on the provided table (ALL Diagonal Matrix) 
+  c(0, 3, 4, 0, 3, 0, 2, 1, 2, 2, 2, 2, 1, 2,  # Architecture
+    0, 0, 3, 0, 1, 1, 2, 1, 2, 2, 0, 3, 1, 1,  # Model-Based Systems Engineering
+    0, 0, 0, 0, 1, 1, 4, 2, 2, 1, 3, 3, 2, 2,  # Requirements Engineering
+    0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0,  # Reliability
+    0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 4, 1, 2,  # Safety & Security
+    0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1,  # Longevity & Manteinability
+    0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 2, 2, 2, 0,  # Scalability
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1,  # Adaptability
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1, 2, 2,  # Continuous Software & System Engineering
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1,  # Testing
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 2, 2,  # Data
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3,  # Interoperability
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,  # Intelligence & Automation
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0  # Stakeholder Engagement
+  ),
+  
+  ###########################################################
+  
   # # Taking sequence of elements based on the provided table (ALL) 
   # c(0, 3, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0,  # Architecture
   #   3, 0, 3, 0, 3, 0, 0, 3, 3, 3, 0, 3, 2, 2,  # Model-Based Systems Engineering
@@ -66,21 +119,21 @@ adjacency_matrix <- matrix(
   # ),
   
   # # Taking sequence of elements based on the provided table (ALL Diagonal Matrix) 
-  c(0, 3, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0,  # Architecture
-    3, 0, 3, 0, 3, 0, 0, 3, 3, 3, 0, 3, 2, 2,  # Model-Based Systems Engineering
-    2, 3, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2, 0, 2,  # Requirements Engineering
-    0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,  # Reliability
-    2, 3, 2, 0, 0, 0, 0, 2, 2, 2, 5, 2, 4, 4,  # Safety & Security
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,  # Longevity & Manteinability
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  # Scalability
-    0, 3, 2, 2, 2, 0, 0, 0, 0, 2, 0, 2, 2, 2,  # Adaptability
-    2, 3, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 2, 0,  # Continuous Software & System Engineering
-    2, 3, 2, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 2,  # Testing
-    0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 2, 4, 3,  # Data
-    0, 3, 2, 0, 2, 2, 0, 2, 0, 0, 2, 0, 3, 0,  # Interoperability
-    0, 2, 0, 0, 4, 0, 0, 2, 2, 0, 4, 3, 0, 0,  # Intelligence & Automation
-    0, 2, 2, 0, 4, 0, 0, 2, 0, 2, 3, 0, 0, 0   # Stakeholder Engagement
-  ),
+  # c(0, 3, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0,  # Architecture
+  #   3, 0, 3, 0, 3, 0, 0, 3, 3, 3, 0, 3, 2, 2,  # Model-Based Systems Engineering
+  #   2, 3, 0, 0, 2, 0, 0, 2, 0, 2, 0, 2, 0, 2,  # Requirements Engineering
+  #   0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,  # Reliability
+  #   2, 3, 2, 0, 0, 0, 0, 2, 2, 2, 5, 2, 4, 4,  # Safety & Security
+  #   0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,  # Longevity & Manteinability
+  #   0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  # Scalability
+  #   0, 3, 2, 2, 2, 0, 0, 0, 0, 2, 0, 2, 2, 2,  # Adaptability
+  #   2, 3, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 2, 0,  # Continuous Software & System Engineering
+  #   2, 3, 2, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 2,  # Testing
+  #   0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 2, 4, 3,  # Data
+  #   0, 3, 2, 0, 2, 2, 0, 2, 0, 0, 2, 0, 3, 0,  # Interoperability
+  #   0, 2, 0, 0, 4, 0, 0, 2, 2, 0, 4, 3, 0, 0,  # Intelligence & Automation
+  #   0, 2, 2, 0, 4, 0, 0, 2, 0, 2, 3, 0, 0, 0   # Stakeholder Engagement
+  # ),
   
   # Taking sequence of elements based on the provided table (>1)
   # c(0, 3, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0,  # Architecture

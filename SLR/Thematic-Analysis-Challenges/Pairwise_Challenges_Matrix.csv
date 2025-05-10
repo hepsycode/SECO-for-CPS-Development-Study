@@ -1,0 +1,15 @@
+,Architecture,Model-Based Systems Engineering,Requirements Engineering,Reliability,Safety & Security,Longevity & Manteinability,Scalability,Adaptability,Continuous Software & System Engineering,Testing,Data,Interoperability,Intelligence & Automation,Stakeholder Engangement
+Architecture,0,3,4,0,3,0,2,1,2,2,2,2,1,2
+Model-Based Systems Engineering,3,0,3,0,1,1,2,1,2,2,0,3,1,1
+Requirements Engineering,4,3,0,0,1,1,4,2,2,1,3,3,2,2
+Reliability,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+Safety & Security,3,1,1,0,0,0,0,1,0,1,2,4,1,2
+Longevity & Manteinability,0,1,1,0,0,0,1,0,1,0,1,1,1,1
+Scalability,2,2,4,1,0,1,0,2,1,0,2,2,2,0
+Adaptability,1,1,2,1,1,0,2,0,0,1,1,1,1,1
+Continuous Software & System Engineering,2,2,2,0,0,1,1,0,0,1,2,1,2,2
+Testing,2,2,1,0,1,0,0,1,1,0,0,1,0,1
+Data,2,0,3,0,2,1,2,1,2,0,0,4,2,2
+Interoperability,2,3,3,0,4,1,2,1,1,1,4,0,2,3
+Intelligence & Automation,1,1,2,1,1,1,2,1,2,0,2,2,0,2
+Stakeholder Engangement,2,1,2,0,2,1,0,1,2,1,2,3,2,0

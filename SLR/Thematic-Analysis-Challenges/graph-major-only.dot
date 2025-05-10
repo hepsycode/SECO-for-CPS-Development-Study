@@ -1,0 +1,51 @@
+digraph SoftwareEngineering {
+    node [shape=box];
+
+    // Nodes
+    Interoperability;
+    RequirementsEngineering;
+    Data;
+    ModelBasedSystemEngineering;
+    ContinuousSystemSoftwareEngineering;
+    IntelligenceAutomation;
+    Architecture;
+    StakeholderEngagement;
+    Testing;
+    Reliability;
+    SafetySecurity;
+    LongevityMaintainability;
+    Adaptability;
+    Portability;
+    Scalability;
+
+    // Edges
+    Interoperability -> Architecture;
+ 
+    RequirementsEngineering -> StakeholderEngagement;
+ 
+    Data -> IntelligenceAutomation;
+ 
+    ModelBasedSystemEngineering -> Architecture;
+
+    ContinuousSystemSoftwareEngineering -> Testing;
+
+    IntelligenceAutomation -> Data;
+
+    Architecture -> Interoperability;
+
+    StakeholderEngagement -> RequirementsEngineering;
+
+    Testing -> ContinuousSystemSoftwareEngineering;
+
+    Reliability -> SafetySecurity;
+
+    SafetySecurity -> Reliability;
+
+    LongevityMaintainability -> ContinuousSystemSoftwareEngineering;
+
+    Adaptability -> Scalability;
+
+    Portability -> Scalability;
+
+    Scalability -> Architecture;
+}

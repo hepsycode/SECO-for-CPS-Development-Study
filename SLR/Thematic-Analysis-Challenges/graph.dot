@@ -1,0 +1,82 @@
+dot
+digraph SoftwareEngineering {
+    node [shape=box];
+
+    // Nodes
+    Interoperability;
+    RequirementsEngineering;
+    Data;
+    ModelBasedSystemEngineering;
+    ContinuousSystemSoftwareEngineering;
+    IntelligenceAutomation;
+    Architecture;
+    StakeholderEngagement;
+    Testing;
+    Reliability;
+    SafetySecurity;
+    LongevityMaintainability;
+    Adaptability;
+    Portability;
+    Scalability;
+
+    // Edges
+    Interoperability -> Architecture;
+    Interoperability -> Data [style=dotted];
+    Interoperability -> StakeholderEngagement [style=dotted];
+
+    RequirementsEngineering -> StakeholderEngagement;
+    RequirementsEngineering -> Testing [style=dotted];
+    RequirementsEngineering -> SafetySecurity [style=dotted];
+
+    Data -> IntelligenceAutomation;
+    Data -> ModelBasedSystemEngineering [style=dotted];
+    Data -> Scalability [style=dotted];
+
+    ModelBasedSystemEngineering -> Architecture;
+    ModelBasedSystemEngineering -> ContinuousSystemSoftwareEngineering [style=dotted];
+    ModelBasedSystemEngineering -> Testing [style=dotted];
+
+    ContinuousSystemSoftwareEngineering -> Testing;
+    ContinuousSystemSoftwareEngineering -> LongevityMaintainability [style=dotted];
+    ContinuousSystemSoftwareEngineering -> Scalability [style=dotted];
+
+    IntelligenceAutomation -> Data;
+    IntelligenceAutomation -> Scalability [style=dotted];
+    IntelligenceAutomation -> Adaptability [style=dotted];
+
+    Architecture -> Interoperability;
+    Architecture -> ModelBasedSystemEngineering [style=dotted];
+    Architecture -> Scalability [style=dotted];
+
+    StakeholderEngagement -> RequirementsEngineering;
+    StakeholderEngagement -> SafetySecurity [style=dotted];
+    StakeholderEngagement -> LongevityMaintainability [style=dotted];
+
+    Testing -> ContinuousSystemSoftwareEngineering;
+    Testing -> Reliability [style=dotted];
+    Testing -> SafetySecurity [style=dotted];
+
+    Reliability -> SafetySecurity;
+    Reliability -> Testing [style=dotted];
+    Reliability -> LongevityMaintainability [style=dotted];
+
+    SafetySecurity -> Reliability;
+    SafetySecurity -> RequirementsEngineering [style=dotted];
+    SafetySecurity -> Testing [style=dotted];
+
+    LongevityMaintainability -> ContinuousSystemSoftwareEngineering;
+    LongevityMaintainability -> Reliability [style=dotted];
+    LongevityMaintainability -> Adaptability [style=dotted];
+
+    Adaptability -> Scalability;
+    Adaptability -> IntelligenceAutomation [style=dotted];
+    Adaptability -> LongevityMaintainability [style=dotted];
+
+    Portability -> Scalability;
+    Portability -> Interoperability [style=dotted];
+    Portability -> Adaptability [style=dotted];
+
+    Scalability -> Architecture;
+    Scalability -> ContinuousSystemSoftwareEngineering [style=dotted];
+    Scalability -> IntelligenceAutomation [style=dotted];
+}
