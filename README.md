@@ -55,3 +55,20 @@ For additional details, see the related paper and its appendices.
 
 ---
 
+## How to Cite?
+
+```
+@article{MUTTILLO2026112579,
+    title = {Experiences and challenges from a software ecosystem for cyber–physical systems development: An empirical study on industry-academia collaboration},
+    journal = {Journal of Systems and Software},
+    volume = {231},
+    pages = {112579},
+    year = {2026},
+    issn = {0164-1212},
+    doi = {https://doi.org/10.1016/j.jss.2025.112579},
+    url = {https://www.sciencedirect.com/science/article/pii/S0164121225002481},
+    author = {Vittoriano Muttillo and Romina Eramo and Johan Cederbladh and Per Erik Strandberg and Adnan Ashraf}
+}
+```
+
+---
