@@ -57,6 +57,8 @@ For additional details, see the related paper and its appendices.
 
 ## How to Cite?
 
+If you use this work in your research or project, please reference it as follows:
+
 ```
 @article{MUTTILLO2026112579,
     title = {Experiences and challenges from a software ecosystem for cyber–physical systems development: An empirical study on industry-academia collaboration},
